@@ -17,9 +17,5 @@
 </p>
 
 <p align="center">
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Auraa67&theme=tokyonight" />
-</p>
-
-<p align="center">
   <img src="https://github.com/Auraa67/Auraa67/blob/output/github-snake-dark.svg" />
 </p>
